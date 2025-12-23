@@ -1,16 +1,16 @@
-## Hi there 👋
+<h3><b>Hey there!</b> 👋</h3>
 
-<!--
-**aniketTech04/aniketTech04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm Aniket, learning software engineering by building real projects.</p>
 
-Here are some ideas to get you started:
+<p>I focus on clean, pixel-perfect interfaces and doing things properly.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>If an idea makes sense, I build it, refine it, and learn from it.</p>
+
+<p>Currently working on small projects to strengthen my fundamentals.</p>
+
+<h4>Fun facts:</h4>
+<ul>
+  <li>I care a lot about UI details</li>
+  <li>I prefer building over tutorials</li>
+  <li>I learn best by breaking and fixing things</li>
+</ul>
