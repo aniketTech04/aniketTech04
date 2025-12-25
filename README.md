@@ -8,7 +8,7 @@
 
 <p>Currently working on small projects to strengthen my fundamentals.</p>
 
-<h4>Fun facts:</h4>
+<h4><b>Fun facts:</b></h4>
 <ul>
   <li>I care a lot about UI details</li>
   <li>I prefer building over tutorials</li>
